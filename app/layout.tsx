@@ -15,7 +15,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "GraceOccasions",
-  description: "Discover GraceOccasions, a collection of handcrafted ladoos in Traditional Potlis and Eco-Friendly Boxes.",
+  description: "Transform homes, weddings, temples, and events with handcrafted décor, bespoke gifting, Sholapith art, and Zardosi creations by Grace Occasions.",
   icons: {
     icon: "/assets/logo.png",
     apple: "/assets/logo.png", 
